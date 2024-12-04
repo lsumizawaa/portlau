@@ -35,13 +35,13 @@ section{
     border-radius: 5px;
 }
 
-projetos{
+.projetos{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
 
-projeto ul{
+.projetos ul{
     list-style-type: none;
     padding: 0;
     margin: 0;
@@ -49,7 +49,7 @@ projeto ul{
     justify-content: center;
 }
 
-projetos li{
+.projetos li{
     margin: 10px;
 }
 
